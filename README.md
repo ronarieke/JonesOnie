@@ -126,3 +126,11 @@ king = [ [ [[[],[]],[]], [[[],[]],[]], [[[],[]],[]], [[[],[]],[]], [[[],[]],[]],
 
 initial = [[5,1,0,0,0,0,-1,-5],[2,1,0,0,0,0,-1,-2],[3,1,0,0,0,0,-1,-3],[9,1,0,0,0,0,-1,-9],[40,1,0,0,0,0,-1,-40],
 [3,1,0,0,0,0,-1,-3],[2,1,0,0,0,0,-1,-2],[5,1,0,0,0,0,-1,-5]]
+
+# Now I need to create a bunch of sets which can be used as for and while loops to determine which squares which pieces may attack'
+
+ocho = [0,1,2,3,4,5,6,7,8]
+
+for x in range(8):
+  for y in range(8):
+    
