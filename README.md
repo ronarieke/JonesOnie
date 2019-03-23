@@ -9,17 +9,17 @@ The following preparatory steps are necessary to construct our model:
 The following folder structure is utilized for storing informtion:
 C:\JonesOnie\CSV\
 ..MinuteData\
-..\Statistics\
-..\..\Averages\
-..\..\..\Backward\
-..\..\..\Forward\
-..\..\Deviations\
-..\..\..\Backward\
-..\..\..\Forward\
-..\..\Correlations\
-..\..\..\Instruments\
-..\..\..\..\Backward\
-..\..\..\..\Forward\
+..\\Statistics\
+..\\..\Averages\
+..\\..\\..\Backward\
+..\\..\\..\Forward\
+..\\..\Deviations\
+..\\..\\..\Backward\
+..\\..\\..\Forward\
+..\\..\Correlations\
+..\\..\\..\Instruments\
+..\\..\\..\\..\Backward\
+..\\..\\..\\..\Forward\
 ..\Optimizations\
 ..\Projections\
 	
