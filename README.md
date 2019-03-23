@@ -7,19 +7,19 @@ The following preparatory steps are necessary to construct our model:
 	a. The time intervals in steps 3 and 4 are subject to hyperparameter tuning.
 
 The following folder structure is utilized for storing informtion:
-C:\JonesOnie\CSV\.
-..MinuteData\.
-..\\Statistics\.
-..\\..\Averages\.
-..\\..\\..\Backward\.
-..\\..\\..\Forward\.
-..\\..\Deviations\.
-..\\..\\..\Backward\.
-..\\..\\..\Forward\.
-..\\..\Correlations\.
-..\\..\\..\Instruments\.
-..\\..\\..\\..\Backward\.
-..\\..\\..\\..\Forward\.
-..\Optimizations\.
-..\Projections\.
+C:\JonesOnie\CSV
+..MinuteData
+..\\Statistics
+..\\..\Averages
+..\\..\\..\Backward
+..\\..\\..\Forward
+..\\..\Deviations
+..\\..\\..\Backward
+..\\..\\..\Forward
+..\\..\Correlations
+..\\..\\..\Instruments
+..\\..\\..\\..\Backward
+..\\..\\..\\..\Forward
+..\Optimizations
+..\Projections
 	
